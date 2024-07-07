@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sheikhmaria10" target="blank"><img src="https://img.shields.io/twitter/follow/sheikhmaria10?logo=twitter&style=for-the-badge" alt="sheikhmaria10" /></a> </p>
 
-- 🔭 I’m currently working on **FrontEnd**
+- 🔭 I’m currently working on **FrontEnd Developer at SYNERGY SOFTWARE HOUSE**
 
 - 🌱 I’m currently learning **PHP**
 
