@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/sheikhmaria10" target="blank"><img src="https://img.shields.io/twitter/follow/sheikhmaria10?logo=twitter&style=for-the-badge" alt="sheikhmaria10" /></a> </p>
 
-- 🔭 I’m currently working on **Dart and Flutter**
+- 🔭 I’m currently working on **FrontEnd**
 
-- 🌱 I’m currently learning **Data Science for Python**
+- 🌱 I’m currently learning **PHP**
 
 - 👯 I’m looking to collaborate on **with other content creators and developers**
 
